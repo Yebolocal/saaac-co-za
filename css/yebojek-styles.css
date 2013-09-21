@@ -1,0 +1,608 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+
+/* !Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+   font-family: helvetica, arial, sans-serif;
+   font-size: large;
+   text-align: left;
+}
+
+p {
+  line-height:24px;
+  margin-bottom:0.5em;
+  margin-top:0.5em;
+  color: black;
+}
+
+blockquote{
+	color:#575757;
+	border: none;
+	background: #d9d0c4;
+	margin: auto;
+	padding: 20px;
+	width: 80%;
+}
+
+/* Headings */
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  line-height: 1.2;
+  color: black;
+}
+
+h1 {
+  	font-size:1.8em;
+	margin-bottom:0.5em;
+	margin-top:0.5em;
+}
+
+h2 {
+	font-size:1.5em;
+	margin-bottom:0.5em;
+	margin-top:0.5em;
+}
+
+h3 {
+   font-size:1.3em;
+	margin-bottom:0.5em;
+	margin-top:0.5em;
+}
+
+h4 {
+   font-size:1.2em;
+	margin-bottom:0.5em;
+	margin-top:0.5em;
+}
+
+h5 {
+   font-size:1em;
+	margin-bottom:0.5em;
+	margin-top:0.5em;
+}
+
+/*  Links    */
+
+a {
+	text-decoration: underline;
+	color: black;
+}
+
+a:hover {
+	background: orange !important;
+	text-decoration: none;
+}
+
+a:visited {
+   color: orange;
+}
+
+a:focus {
+	background: green !important;
+	color: black !important;
+}
+
+/*
+Not sure what this does
+   a:link, a:active {
+	color:#4aa4e3;
+	text-decoration:blink;
+	outline:none;
+} 
+*/
+
+
+
+/* -------------------------------------------------------- */
+
+
+
+/* !Site Background, Container and Globals */
+
+
+.site-wrapper{
+   background: orange;
+  
+}
+
+
+.site-container{
+   width: 960px;
+   margin: 0 auto;
+}
+
+/* End Site Background, Container and Globals -------------------------- */
+
+
+
+
+
+/* !Site Globals */
+
+ul {                           /* Unordered List styling*/
+	margin-left:1.5em;
+	list-style:  square;
+	
+}
+
+
+/* End Globals -------------------------------------------------------- */
+
+
+
+
+/* !Topbanner */
+
+.topbanner-container {
+   background-image:url('/img/header-1.png');
+   min-height: 200px;
+}
+
+/* End Topbanner -------------------------------------------------------- */
+
+
+
+
+
+/* !Start Nav  */
+
+
+
+.nav-wrapper {
+}
+
+
+.nav-container {
+   width: 960px;
+   margin: 0 auto;
+}
+
+
+#navigation {
+	margin:0;
+	padding: 0;
+	clear:both;
+	height:51px;
+	background: #d6eaf8 url('/img/nav/dropdown-bg.gif') repeat-x left top;
+}
+
+
+ul.nav-main,
+ul.nav-main li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+ul.nav-main {
+	position: relative;
+	z-index: 597;
+}
+
+ul.nav-main li:hover > ul {
+	visibility: visible;
+}
+
+
+ul.nav-main li.hover,
+ul.nav-main li:hover {
+	position: relative;
+	z-index: 599;
+	cursor: pointer;
+	background: url('/img/nav/dropdown-bg-hover.gif') repeat-x left top;
+}
+
+
+
+ul.nav-main li {
+	float:left;
+	display:block;
+	height: 51px;
+	color: #999;
+	font: 14px Arial, Helvetica, sans-serif;
+	background: url('/img/nav/separator.gif') no-repeat right center;
+}
+
+ul.nav-main li a {
+	display:block;
+	padding: 16px 16px 0 16px;
+	height: 35px;
+	color: #999;
+	font: 14px Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+
+ul.nav-main li a:hover {
+	color:#D6D6D6;
+}
+
+
+
+ul.nav-main *.list {
+	padding-right: 22px;
+	background: url('/img/nav/navigation-arrow.gif') no-repeat right top;
+}
+
+
+
+ul.nav-sub {
+	visibility: hidden;
+	position: absolute;
+	padding:10px;
+	top: 48px;
+	left: 0;
+	z-index: 598;
+	background: #353535 url('/img/nav/dropdown-list-bg.gif') repeat-x left top;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #000;
+}
+
+
+ul.nav-sub li {
+	list-style:none;
+	display:block;
+	padding: 0;
+	height: 27px;
+	float: none;
+	width:145px;
+	border-bottom: 1px solid #5a5a5a;
+	background: none;
+}
+
+ul.nav-sub li a {
+	list-style:none;
+	display:block;
+	padding: 6px 5px 6px 5px;
+	height: 15px;
+	float: none;
+	width:145px;
+	background: none;
+	font: 12px Arial, Helvetica, sans-serif;	
+}
+
+
+
+/* End Nav -------------------------------------------------------- */
+
+
+
+
+
+
+/* !Start Pagination */
+
+.pagination ul {
+   display: block;
+}
+
+.pagination li {
+   display: inline;
+}
+
+/* End pagination -------------------------------------------------------- */
+
+
+
+
+/* !Start Content  */
+
+
+.content-wrapper{
+   background: white;
+}
+
+.content-container{
+   background: transparent;
+}
+
+.content-with-sidebar-none, 
+.content-with-sidebar-left, 
+.content-with-sidebar-right, 
+.content-with-sidebar-both {
+   padding: 1px 50px 30px 50px;
+}
+
+.content-with-sidebar-none p, 
+.content-with-sidebar-left p, 
+.content-with-sidebar-right p, 
+.content-with-sidebar-both p {
+   
+}
+
+.content-with-sidebar-none ul, 
+.content-with-sidebar-left ul, 
+.content-with-sidebar-right ul, 
+.content-with-sidebar-both ul {
+   
+}
+
+.content-with-sidebar-none {
+}
+
+.content-with-sidebar-left {
+   margin-left: 250px;  
+}
+
+.content-with-sidebar-right {
+   margin-right: 250px;  
+}
+
+.content-with-sidebar-both {
+   margin-left: 250px;  
+   margin-right: 250px; 
+}
+
+
+/*  Content Headings   */
+
+.content-with-sidebar-none h1, 
+.content-with-sidebar-left h1, 
+.content-with-sidebar-right h1, 
+.content-with-sidebar-both h1,
+.content-with-sidebar-none h2, 
+.content-with-sidebar-left h2, 
+.content-with-sidebar-right h2, 
+.content-with-sidebar-both h2,
+.content-with-sidebar-none h3, 
+.content-with-sidebar-left h3, 
+.content-with-sidebar-right h3, 
+.content-with-sidebar-both h3,
+.content-with-sidebar-none h4, 
+.content-with-sidebar-left h4, 
+.content-with-sidebar-right h4, 
+.content-with-sidebar-both h4,
+.content-with-sidebar-none h5, 
+.content-with-sidebar-left h5, 
+.content-with-sidebar-right h5, 
+.content-with-sidebar-both h5 {
+   
+}
+
+.content-with-sidebar-none h1, 
+.content-with-sidebar-left h1, 
+.content-with-sidebar-right h1, 
+.content-with-sidebar-both h1 {
+
+}
+
+.content-with-sidebar-none h2, 
+.content-with-sidebar-left h2, 
+.content-with-sidebar-right h2, 
+.content-with-sidebar-both h2 {
+   background: #afacac
+}
+
+.content-with-sidebar-none h3, 
+.content-with-sidebar-left h3, 
+.content-with-sidebar-right h3, 
+.content-with-sidebar-both h3 {
+   text-decoration: underline;
+}
+
+.content-with-sidebar-none h4, 
+.content-with-sidebar-left h4, 
+.content-with-sidebar-right h4, 
+.content-with-sidebar-both h4 {
+
+}
+
+.content-with-sidebar-none h5, 
+.content-with-sidebar-left h5, 
+.content-with-sidebar-right h5, 
+.content-with-sidebar-both h5 {
+   
+}
+
+
+.page-title {
+   background: transparent !important;
+   color: black !important;
+   padding: 0.3em 0.3em 0.3em 0em !important;
+   text-transform: uppercase !important;
+   font-weight: bold !important;
+   font-size: 2em !important;
+}
+
+
+/* End content -------------------------------------------------------- */
+
+
+
+
+/* Start Sidebars */
+
+.sidebar-left {
+   background: yellow ; 
+   width: 250px; 
+   height: 100%;
+   float: left;   
+}
+
+.sidebar-right {
+   background-color: yellow ;
+   width: 250px; 
+   height: 100%;
+   float: right;
+}
+
+.sidebar-right p.
+.sidebar-left p {
+}
+
+.sidebar-content{
+   background: red;
+   margin: 0;
+   padding: 5px 10px 0px 10px;
+}
+
+.sidebar-title,
+.sidebar-title h1,
+.sidebar-title h2,
+.sidebar-title h3,
+.sidebar-title h4,
+.sidebar-title h5,
+.sidebar-title p{
+   background: green;
+   line-height: 2em;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 5px 0px 5px;
+}
+
+
+
+
+
+/* End Sidebars */
+
+/* -------------------------------------------------------- */
+
+
+
+/* Extra */
+
+.extra1-wrapper {
+   background: grey;
+   min-height: 200px;
+}
+.extra1-container {
+}
+
+.extra2-container {
+}
+
+/* End Extra -------------------------------------------------------- */
+
+
+
+
+/* Start Footer */
+
+.footer-wrapper {  
+   clear: both;  /*Not sure what this does - can delete it - think it does something with the coloms */
+}
+
+#license {
+   margin: 0 auto;
+}
+
+.footer-container p,
+.footer-container a,
+.footer-container a:hover{
+   font-size: small;
+   text-align: center;  
+   padding-bottom: 0px;
+   line-height: 1.8em;
+}
+
+.footer-container p {
+   color: grey; 
+   
+}
+.footer-container a {
+   text-decoration: underline;
+   color: grey;   
+}
+.footer-container a:hover {
+   color: black;  
+   background: white;
+}
+
+
+/* End Footer */
+
+/* -------------------------------------------------------- */
+
+
+
+
+/* Start Widget Holder 2 column */
+
+
+.col2-left{
+   width: 46%;
+   float: left;
+   padding: 2%;
+   text-align: center;
+}
+
+
+.col2-right{
+   width: 46%;
+   float: left;
+   padding: 2%;
+   text-align: center;
+}
+
+
+
+/* Start Widget Holder 3 column */
+
+.col3-1{
+   background: black;
+}
+
+.col3-left{
+   width: 29%;
+   float: left;
+   padding: 2%;
+   text-align: center;
+}
+
+.col3-mid{
+   width: 30%;
+   float: left;
+   padding: 2%;
+   text-align: center;  
+}
+
+.col3-right{
+   width: 29%;
+   float: left;
+   padding: 2%;
+   text-align: center;
+}
+
+/* Start Widget Holder 4 column */
+
+.col4-left{
+   width: 21%;
+   float: left;
+   padding: 2%;
+   text-align: center;
+}
+
+.col4-mid-left{
+   width: 21%;
+   float: left;
+   padding: 2%;
+   text-align: center;  
+}
+
+.col4-mid-right{
+   width: 21%;
+   float: left;
+   padding: 2%;
+   text-align: center;  
+}
+
+.col4-right{
+   width: 21%;
+   float: left;
+   padding: 2%;
+   text-align: center;
+}
+
+/* -------------------------------------------------------- */

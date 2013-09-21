@@ -1,0 +1,10 @@
+<item>
+  <title>{{ post.title }}</title>
+  <link>http://realjenius.com{{ post.url }}</link>
+  <author> Author </author>
+  <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+  <guid>http://website.com{{ post.url }}</guid>
+  <description><![CDATA[
+     {{ post.content | expand_urls : site.url }}
+  ]]></description>
+</item>

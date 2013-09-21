@@ -1,0 +1,1 @@
+This is the code for the area just above the content of the page in the content area. You can have different code pieces for different layouts.

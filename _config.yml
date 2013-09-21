@@ -1,0 +1,20 @@
+name: "JeboJek - The Best Jekyll Template"
+description: "This is the Description"
+main_keywords: "Keyword"
+author: "Me"
+copyright: "2013"
+paginate: 2
+
+
+# Dependencies
+markdown:         rdiscount
+pygments:         true
+
+# Permalinks
+permalink:        :title
+
+# Server
+base_url: /
+
+# Custom vars
+

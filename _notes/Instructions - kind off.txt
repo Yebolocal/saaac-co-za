@@ -1,0 +1,37 @@
+The user create a layout by filling in this text in the layout file
+--------------------------
+
+topbar: includes/areas/topbars/topbar.html
+topbanner: includes/areas/topbanner/topbanner.html
+navtop: includes/areas/navtops/navtop.html
+nav: includes/areas/navs/nav.html
+navbottom: includes/areas/navbottom/navbottom.html
+content: includes/areas/content/content-sidebar-none.html
+extra1: includes/areas/extras/extra1.html
+extra2: includes/areas/extras/extra2.html
+footer: includes/areas/footers/footer.html
+
+The user places there code in the corresponding file in the areas folder
+--------------------------
+
+/areas/topbars/topbar.html
+/areas/topbanner/topbanner.html
+/areas/navtops/navtop.html
+/areas/navs/nav.html
+/areas/navbottom/navbottom.html
+/areas/content/content-sidebar-none.html
+/areas/extras/extra1.html
+/areas/extras/extra2.html
+/areas/footers/footer.html
+
+The user can use blocks and widgets to grouop code together
+--------------------------
+Instead of placing the code in the area file they can just refer to a block in the area file and have the code in the block file.
+
+The reason for this might be becuase 
+
+Blocks can contain widgets
+
+This is how to make a widget holder with for example 3 widgets next to one another - This widget holder can then be placed in one of the site areas
+
+

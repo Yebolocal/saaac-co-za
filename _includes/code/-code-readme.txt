@@ -1,0 +1,1 @@
+This foler is for bits of code make up parts of the side, these is is different from widgets in that these pieces of code can be places anywhere in the side. Widgets are ment to be placed only in sidebars or widget holders.

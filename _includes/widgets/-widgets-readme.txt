@@ -1,0 +1,1 @@
+Add the code for your widgets in files in this folder, you can use the widget tempalte to help you set up the basic structure, just copy the code from the widget template to your widget file and then customise it.
