@@ -38,9 +38,13 @@
    background: grey;
 }
 
-.extra2-container {
-   width: 960px;
-   margin: 0 auto;
+
+.extra2-wrapper {
+   background: grey;
+   min-height: 200px;
+   background-image:url('/img/SAAAC-Tag-Cloud-Bottom-1.png');
+   background-position: center top;
+   background-repeat: no-repeat;
 }
 
 .footer-wrapper {  
