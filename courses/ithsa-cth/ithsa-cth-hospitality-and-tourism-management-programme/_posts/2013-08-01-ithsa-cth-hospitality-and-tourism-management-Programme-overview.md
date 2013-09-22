@@ -4,6 +4,8 @@ layout: post
 tags: [Hospitality Management, Tourism Management, Management ]
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis dignissim lacus. Aliquam erat volutpat. Nam auctor porttitor facilisis. 
+
+![](/img/acc/ithsa-logo.png "")
+![](/img/acc/cth-logo.png "")
 
 {{excerpt_separator}}

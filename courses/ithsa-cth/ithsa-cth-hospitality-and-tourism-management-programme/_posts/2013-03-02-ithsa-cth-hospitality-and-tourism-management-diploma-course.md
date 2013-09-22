@@ -2,6 +2,10 @@
 title: Diploma in Hospitality & Tourism
 layout: default
 ---
+
+![](/img/acc/ithsa-logo.png "")
+![](/img/acc/cth-logo.png "")
+
 <h2><b>COURSE DURATION:</b></h2>
 <ul>
 	<li><i>1 Year</i></li>

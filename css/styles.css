@@ -414,7 +414,8 @@ ul.nav-sub li a {
 .content-with-sidebar-left h2, 
 .content-with-sidebar-right h2, 
 .content-with-sidebar-both h2 {
-   background: grey;
+   background: #CC0000;
+   color: white;
 }
  
 
