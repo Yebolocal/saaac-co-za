@@ -430,7 +430,8 @@ ul.nav-sub li a {
 .content-with-sidebar-left h4, 
 .content-with-sidebar-right h4, 
 .content-with-sidebar-both h4 {
-
+   background: #CC0000;
+   color: white;
 }
 
 .content-with-sidebar-none h5, 
