@@ -4,31 +4,31 @@ layout: post
 tags: [Accounting, Public Sector Accounting]
 ---
 
-<address><strong>Diploma:</strong> Public Sector Accounting NQF L5 – SAQA ID 20353
-<strong>ICB Membership Designation:</strong> CTPAIcb(SA)
-<strong>Title with ICB Designation:</strong> Certified Technical Public Accountant</address>
-<h4><strong>Subjects / Learning areas:</strong></h4>
-<ul>
-	<li><span style="font-size: 1.17em; line-height: 19px;">Financial Statements</span></li>
-	<li><span style="font-size: 1.17em; line-height: 19px;">Cost and Management Accounting</span></li>
-	<li><span style="font-size: 1.17em; line-height: 19px;">Technical Public Accounting</span></li>
-	<li><span style="font-size: 1.17em; line-height: 19px;">Business Law and Accounting Control</span></li>
-</ul>
+** Diploma: Public Sector Accounting NQF L5 – SAQA ID 20353 **
+** ICB Membership Designation: CTPAIcb(SA) Title with ICB Designation: Certified Technical Public Accountant **
+
+#### Learning areas:
+
+- Financial Statements
+- Cost and Management Accounting
+- Technical Public Accounting
+- Business Law and Accounting Control
 
 {{excerpt_separator}}
 
-<h4><strong>Pre-qualifications:</strong></h4>
-<ul>
-	<li><span style="font-size: 1.17em; line-height: 19px;">National Certificate: Public Sector Accounting, which consists of the previous 4 learning areas.</span></li>
-</ul>
+#### Pre-qualifications:
 
-<h4><strong>What you’ll be able to do:</strong></h4>
+- National Certificate: Public Sector Accounting, which consists of the previous 4 learning areas.
+
+#### What you’ll be able to do:
+
 Work as a qualified accounting technician in the public sector. Make a positive contribution to the country by improving public finance management, adding value, efficiency and productivity to government departments.
-<h4><b>Certification:</b></h4>
-<ul>
-	<li>Diploma endorsed by ICB</li>
-	<li>Completion Certificate: SA Academy of Applied Competence</li>
-</ul>
-<h4><b>Affiliation:</b></h4>
-ICB (Institute of Certified Bookkeepers):
-Annual Professional Registration
+
+#### Certification:
+
+- Diploma endorsed by ICB
+- Completion Certificate: SA Academy of Applied Competence
+
+#### Affiliation:
+
+ICB (Institute of Certified Bookkeepers): Annual Professional Registration
