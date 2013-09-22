@@ -126,8 +126,23 @@ Not sure what this does
   
 }
 
+.topbar-wrapper {
+   background: white;
+}
+
+.topbanner-wrapper {
+   background: #CC0000;
+}
+
 .nav-wrapper {
    background: #d6eaf8 url('/img/nav/dropdown-bg.gif') repeat-x left top;
+   padding: 0;
+   margin: 0;
+}
+
+.navbottom-wrapper {
+   background: white;
+   padding: 0;
 }
 
 .content-wrapper{
@@ -161,7 +176,12 @@ Not sure what this does
 /* Containers */
 
 .site-container{
-   width: 960;
+   margin: 0 auto;
+}
+
+.topbar-container {
+   min-height: 20px;
+   width: 960px;
    margin: 0 auto;
 }
 
@@ -175,6 +195,13 @@ Not sure what this does
 .nav-container {
    width: 800px;
    margin: 0 auto;
+   padding: 0;
+}
+
+.navbottom-container {
+   width: 900px;
+   margin: 0 auto;
+   padding: 0;
 }
 
 .content-container{
@@ -648,4 +675,11 @@ ul.nav-sub li a {
 /* -------------------------------------------------------- */
 
 
-
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+float: right;
+}
