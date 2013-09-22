@@ -58,20 +58,9 @@ layout: default
 </ul>
 &nbsp;
 <h2>OTHER MANAGEMENT PROGRAMMES IN HOSPITALITY AND TOURISM.</h2>
-&nbsp;
 
-<a title="Certificate in Hospitality &amp; Tourism" href="http://www.saaac.co.za/ithsa-cth/hospitality-tourism/certificate/">Certificate in Hospitality &amp; Tourism</a>
-
-<a title="Diploma in Hospitality &amp; Tourism" href="http://www.saaac.co.za/ithsa-cth/hospitality-tourism/diploma/">Diploma in Hospitality &amp; Tourism</a>
-
-<a title="Advanced Diploma in Hospitality &amp; Tourism" href="http://www.saaac.co.za/ithsa-cth/hospitality-tourism/advanced-diploma/">Advanced Diploma in Hospitality &amp; Tourism</a>
-
-<a title="Pro-Graduate Diploma" href="http://www.saaac.co.za/ithsa-cth/hospitality-tourism/pro-graduate-diploma/">Pro-Graduate Diploma in Hospitality &amp; Tourism</a>
-
-<a title="Post-Graduate Diploma in Hospitality &amp; Tourism" href="http://www.saaac.co.za/ithsa-cth/hospitality-tourism/post-graduate-diploma/">Post-Graduate Diploma in Hospitality &amp; Tourism</a>
-
-&nbsp;
-<h2>FIND OUT MORE ABOUT ITHSA &amp; CTH</h2>
-Click <a href="http://www.saaac.co.za/ithsa-cth/">here</a>
-
-&nbsp;
+- Certificate in Hospitality &amp; Tourism</a>
+- Diploma in Hospitality &amp; Tourism</a>
+- Advanced Diploma in Hospitality &amp; Tourism</a>
+- Pro-Graduate Diploma in Hospitality &amp; Tourism
+- Post-Graduate Diploma in Hospitality &amp; Tourism
