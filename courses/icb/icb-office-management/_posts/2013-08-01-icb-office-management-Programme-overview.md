@@ -4,6 +4,10 @@ layout: post
 tags: [Office Mangement, Management]
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis dignissim lacus. Aliquam erat volutpat. Nam auctor porttitor facilisis. 
+<ul>
+   <li><a href="/icb-certified-junior-office-administrator-course/"> Certified Junior Office Administrator Course </a> </li>   
+   <li><a href="/icb-certified-senior-office-administrator-course/"> Certified Senior Office Administrator Course </a> </li>  
+   <li><a href="/icb-certified-office-manager-course/"> Certified Office Manager Course </a> </li>
+</ul>
 
 {{excerpt_separator}}

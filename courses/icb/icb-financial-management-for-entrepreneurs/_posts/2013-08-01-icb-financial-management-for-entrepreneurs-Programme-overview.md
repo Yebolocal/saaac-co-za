@@ -4,6 +4,8 @@ layout: post
 tags: [Finacial Management, Entrepreneurship]
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis dignissim lacus. Aliquam erat volutpat. Nam auctor porttitor facilisis. 
+<ul>
+   <li><a href="/icb-financial-management-for-entrepreneurs-course/"> Financial Management for Entrepreneurs </a></li> 
+</ul> 
 
 {{excerpt_separator}}

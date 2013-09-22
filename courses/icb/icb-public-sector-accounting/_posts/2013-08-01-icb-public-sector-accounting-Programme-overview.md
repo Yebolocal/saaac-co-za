@@ -4,6 +4,9 @@ layout: post
 tags: [Accounting, Public Sector Accounting]
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis dignissim lacus. Aliquam erat volutpat. Nam auctor porttitor facilisis. 
+<ul>
+    <li> <a href="/icb-certified-public-accounts-administrator-course/"> Certified Public Accounts Administrator </a>  </li>
+    <li> <a href="/icb-certified-technical-public-accountant-course/"> Certified Technical Public Accountant </a> </li>
+</ul> 
 
 {{excerpt_separator}}

@@ -85,21 +85,21 @@ h5 {
 /*  Links    */
 
 a {
-	text-decoration: underline;
-	color: black;
+	text-decoration: none;
+	color: #CC0000;
 }
 
 a:hover {
-	background: orange !important;
-	text-decoration: none;
+	background: grey !important;
+	text-decoration: underline;
 }
 
 a:visited {
-   color: orange;
+   color: grey;
 }
 
 a:focus {
-	background: green !important;
+	background: red !important;
 	color: black !important;
 }
 
@@ -173,7 +173,7 @@ Not sure what this does
 }
 
 .nav-container {
-   width: 960px;
+   width: 660px;
    margin: 0 auto;
 }
 
@@ -354,6 +354,13 @@ ul.nav-sub li a {
    
 }
 
+.content-with-sidebar-none ul, 
+.content-with-sidebar-left ul, 
+.content-with-sidebar-right ul, 
+.content-with-sidebar-both ul {
+   
+}
+
 .content-with-sidebar-none {
 }
 
@@ -407,8 +414,9 @@ ul.nav-sub li a {
 .content-with-sidebar-left h2, 
 .content-with-sidebar-right h2, 
 .content-with-sidebar-both h2 {
-   background: #afacac
+   background: grey;
 }
+ 
 
 .content-with-sidebar-none h3, 
 .content-with-sidebar-left h3, 
@@ -431,6 +439,20 @@ ul.nav-sub li a {
    
 }
 
+.content-with-sidebar-none a, 
+.content-with-sidebar-left a, 
+.content-with-sidebar-right a, 
+.content-with-sidebar-both a {
+
+}
+
+.content-with-sidebar-none a:visited, 
+.content-with-sidebar-left a:visited, 
+.content-with-sidebar-right a:visited, 
+.content-with-sidebar-both a:visited {
+
+}
+
 
 .page-title {
    background: transparent !important;
@@ -439,6 +461,20 @@ ul.nav-sub li a {
    text-transform: uppercase !important;
    font-weight: bold !important;
    font-size: 2em !important;
+}
+
+.course-credit {
+   background: green;
+   color: white;
+}
+
+.course-la h1,
+.course-la h2,
+.course-la h3,
+.course-la h4,
+.course-la h5,
+.course-la li {
+   color: green;
 }
 
 
