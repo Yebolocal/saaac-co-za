@@ -369,7 +369,7 @@ ul.nav-sub li a {
 }
 
 .content-with-sidebar-right {
-   margin-right: 250px;  
+   /*margin-right: 250px; */ 
 }
 
 .content-with-sidebar-both {
