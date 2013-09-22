@@ -1,7 +1,7 @@
 ---
 title: Business Oppertunity
 layout: post
-permalink: blog/business-oppertunity
+permalink: business-oppertunity
 ---
 
 Interested in becoming your own boss but with the support you need?

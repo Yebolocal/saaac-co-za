@@ -2,8 +2,10 @@
 title: ICB Certified Public Accounts Administrator Course
 layout: post
 tags: [Accounting, Public Sector Accounting]
-
 ---
+
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** National Certificate: Bookkeeping – NQF Level 4 – 120 credits ** 
 ** ICB Membership Designation: CPAAlcb (SA)Title with ICB Designation: Certified Public Accounts Administrator **
 

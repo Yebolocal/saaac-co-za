@@ -2,8 +2,10 @@
 title: ICB Certified Junior Office Administrator Course
 layout: post
 tags: [Office Mangement, Management]
-
 ---
+
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** Certificate</strong>: Office Administration – - SAQA ID: 23618 - NQF Level 5 – 120 credits **
 ** ICB Membership Designation</strong>: CJOAlcb (SA) **
 

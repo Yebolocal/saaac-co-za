@@ -4,6 +4,8 @@ layout: post
 tags: [Accounting, Public Sector Accounting]
 ---
 
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** Diploma: Public Sector Accounting NQF L5 – SAQA ID 20353 **
 ** ICB Membership Designation: CTPAIcb(SA) Title with ICB Designation: Certified Technical Public Accountant **
 

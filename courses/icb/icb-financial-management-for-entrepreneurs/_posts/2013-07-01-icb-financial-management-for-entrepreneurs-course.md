@@ -2,8 +2,10 @@
 title: ICB Financial Management for Entrepreneurs Course
 layout: post
 tags: [Finacial Management, Entrepreneurship]
-
 ---
+
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** National Certificate: Small Business Financial Management- SAQA ID: 48736 | NQF Level 4 | 120 Credits ** 
 ** ICB Designation: CSBFMlcb (SA) **
 

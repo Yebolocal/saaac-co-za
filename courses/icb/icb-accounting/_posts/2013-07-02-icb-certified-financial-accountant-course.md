@@ -4,6 +4,8 @@ layout: post
 tags: [Accounting]
 ---
 
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** SAQA ID: 20366 – National Diploma: Financial Accounting – NQF Level 6 – 280 credits **
 ** ICB Membership Designation: CFAlcb (SA) **
 

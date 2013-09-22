@@ -3,6 +3,7 @@ title: ICB Certified Technical Financial Accountant Course
 layout: post
 tags: [Accounting]
 ---
+![alt text](/img/acc/icb-logo.jpg "")
 
 ** SAQA ID: 36213 – National Diploma:  Technical Financial Accounting – NQF Level 5 – 251 credits **
 ** ICB Membership Designation: CTFAlcb (SA) **

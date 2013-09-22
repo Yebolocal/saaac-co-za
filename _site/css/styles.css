@@ -37,7 +37,7 @@ blockquote{
 }
 
 
-ul {                           /* Unordered List styling*/
+ul, ol {                           /* Unordered List styling*/
 	margin-left:1.5em;
 	list-style:  square;
 	
@@ -173,7 +173,7 @@ Not sure what this does
 }
 
 .nav-container {
-   width: 660px;
+   width: 800px;
    margin: 0 auto;
 }
 

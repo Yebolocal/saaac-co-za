@@ -2,8 +2,10 @@
 title: ICB Certified Office Manager Course
 layout: post
 tags: [Office Mangement, Management]
-
 ---
+
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** Diploma: Office Administration - SAQA ID: 35958– NQF Level 6 – 360 credits **
 ** ICB Membership Designation</strong>: COMlcb (SA) **
 

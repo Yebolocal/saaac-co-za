@@ -4,6 +4,23 @@ layout: post
 tags: [Marketing Management, Management]
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis dignissim lacus. Aliquam erat volutpat. Nam auctor porttitor facilisis. 
+
+![alt text](/img/acc/abma-logo.jpg "") 
 
 {{excerpt_separator}}
+
+### ABMA DIPLOMA: MARKETING MANAGEMENT: Level 4
+
+#### Learning Units:
+
+1.	Introduction to Economics
+2.	Theory & Application of Marketing Practices
+3.	Introduction to  Sales Management
+4.	Business Communication
+5.	Synopsis
+
+#### Entry Requirement
+
+– Entry requirements Grade 12 or equivalent
+
+

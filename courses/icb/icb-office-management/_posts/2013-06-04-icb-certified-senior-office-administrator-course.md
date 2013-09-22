@@ -2,8 +2,10 @@
 title: ICB Certified Senior Office Administrator Course
 layout: post
 tags: [Office Mangement, Management]
-
 ---
+
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** Higher Certificate: Office Administration - SAQA ID: 23619 – NQF Level 5 – 240 credits **
 ** ICB Membership Designation: CSOAlcb (SA) **
 

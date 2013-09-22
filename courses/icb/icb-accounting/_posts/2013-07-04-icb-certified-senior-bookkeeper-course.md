@@ -4,6 +4,8 @@ layout: post
 tags: [Accounting]
 ---
 
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** SAQA ID: 58376 – Further Education and Training Certificate: Bookkeeping – NQF Level 4 – 130 credits **
 ** ICB Membership Designation: CSBlcb (SA) **
 

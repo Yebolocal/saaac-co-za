@@ -4,6 +4,8 @@ layout: post
 tags: [Accounting]
 ---
 
+![alt text](/img/acc/icb-logo.jpg "")
+
 ** SAQA ID: 58375 - National Certificate: Bookkeeping – NQF Level 3 – 120 credits **
 ** ICB Membership Designation: CJBlcb (SA) **
 
