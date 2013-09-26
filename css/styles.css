@@ -399,10 +399,7 @@ ul.nav-sub li a {
    /*margin-right: 250px; */ 
 }
 
-content-with-sidebar-supporters {
-   margin-right: 350px; 
-   min-height: 900px;
-}
+
 
 .content-with-sidebar-both {
    margin-left: 250px;  
@@ -511,6 +508,10 @@ content-with-sidebar-supporters {
    color: green;
 }
 
+content-with-sidebar-supporters {
+   margin-right: 350px; 
+   min-height: 900px;
+}
 
 /* End content -------------------------------------------------------- */
 
@@ -531,17 +532,6 @@ content-with-sidebar-supporters {
    width: 250px; 
    height: 100%;
    float: right;
-}
-
-.sidebar-right-supporters {
-   background: transparent;
-   width: 350px; 
-   height: 100%;
-   float: right;
-   border-left: solid;
-   padding: 20px;
-   border-color: grey;
-   
 }
 
 .sidebar-right p,
@@ -576,6 +566,18 @@ content-with-sidebar-supporters {
 
 .sidebar-supporters-content {
    background: transparent;
+}
+
+.sidebar-right-supporters {
+   background: transparent;
+   width: 350px; 
+   min-height: 900px;
+   height: 100%;
+   float: right;
+   border-left: solid;
+   padding: 20px;
+   border-color: grey;
+   
 }
 
 /* End Sidebars */
