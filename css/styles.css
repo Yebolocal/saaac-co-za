@@ -399,6 +399,11 @@ ul.nav-sub li a {
    /*margin-right: 250px; */ 
 }
 
+content-with-sidebar-supporters {
+   margin-right: 350px; 
+   min-height: 900px;
+}
+
 .content-with-sidebar-both {
    margin-left: 250px;  
    margin-right: 250px; 
@@ -521,22 +526,30 @@ ul.nav-sub li a {
    float: left;   
 }
 
-.sidebar-right {
+.sidebar-right{
    background-color: yellow ;
    width: 250px; 
    height: 100%;
    float: right;
 }
 
-.sidebar-right p.
-.sidebar-left p {
+.sidebar-right-supporters {
+   background: transparent;
+   width: 350px; 
+   height: 100%;
+   float: right;
+   border-left: solid;
+   padding: 20px;
+   border-color: grey;
+   
 }
 
-.sidebar-content{
-   background: red;
-   margin: 0;
-   padding: 5px 10px 0px 10px;
+.sidebar-right p,
+.sidebar-left p {
+
 }
+
+
 
 .sidebar-title,
 .sidebar-title h1,
@@ -551,6 +564,19 @@ ul.nav-sub li a {
    padding: 0px 5px 0px 5px;
 }
 
+.sidebar-content{
+   background: red;
+   margin: 0;
+   padding: 5px 10px 0px 10px;
+}
+
+.sidebar-supporters-title {
+   background: transparent;
+}
+
+.sidebar-supporters-content {
+   background: transparent;
+}
 
 /* End Sidebars */
 
