@@ -147,6 +147,7 @@ Not sure what this does
 
 .content-wrapper{
    background: white;
+   min-height: 1500px;
 }
 
 .extra1-wrapper {
@@ -510,7 +511,6 @@ ul.nav-sub li a {
 
 content-with-sidebar-supporters {
    margin-right: 350px; 
-   min-height: 900px;
 }
 
 /* End content -------------------------------------------------------- */
@@ -571,7 +571,6 @@ content-with-sidebar-supporters {
 .sidebar-right-supporters {
    background: transparent;
    width: 350px; 
-   min-height: 900px;
    height: 100%;
    float: right;
    border-left: solid;
@@ -710,4 +709,9 @@ border: 0;
 box-shadow: 0;
 display: inline;
 float: right;
+}
+
+.Mailchimp {
+   background: #CC0000;
+   padding: 20px;
 }
