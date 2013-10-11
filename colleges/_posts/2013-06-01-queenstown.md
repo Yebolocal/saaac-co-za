@@ -5,8 +5,8 @@ layout: default
 
 ## Phone: 
 
-Number: 082 566 5375     
-Fax: 086 665 4354 
+Number: 045 838 6082    
+Fax: 086 224 4073
 
 ## Email: 
 
