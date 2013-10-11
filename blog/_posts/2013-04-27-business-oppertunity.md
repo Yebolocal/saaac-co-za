@@ -1,5 +1,5 @@
 ---
-title: Business Oppertunity
+title: Business Opportunity
 layout: post
 permalink: business-oppertunity
 ---
