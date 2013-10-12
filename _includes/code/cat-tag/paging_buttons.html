@@ -1,21 +1,23 @@
 
 <div id="paging">
-{% if paginator.next_page %}
-	<a href="{{paging_root}}page{{paginator.next_page}}" class="btn btn-default pull-left">&larr; Next Page</a>
-{% else %}
-	<a href="#" class="btn btn-default pull-left" disabled="disabled">&larr; Next Page</a>
-{% endif %}
 
 {% if paginator.previous_page %}
 	{% if paginator.previous_page == 1 %}
-		<a href="{{paging_root}}" class="btn btn-default pull-right">| Previous Page  &rarr;</a>
+		<a href="{{paging_root}}" class="paginator"> ← &larr; Previous Page  </a>
 	{% else %}
-		<a href="{{paging_root}}page{{paginator.previous_page}}" class="btn btn-default pull-right">| Previous Page &rarr;</a>
+		<a href="{{paging_root}}page{{paginator.previous_page}}" class="paginator" > ← &larr; Previous Page </a>
 	{% endif %}
 {% else %}
-		<a href="#" class="btn btn-default pull-right" disabled="disabled">| Previous Page &rarr;</a>
+		<a href="#" disabled="disabled" class="paginator"> ← &larr; Previous Page </a>
 	</li>
 {% endif %}
+
+{% if paginator.next_page %}
+	<a href="{{paging_root}}page{{paginator.next_page}}" class="paginator"> Next Page &rarr; → </a>
+{% else %}
+	<a href="#"  disabled="disabled" class="paginator">  Next Page &rarr; → </a>
+{% endif %}
+
 </div>
 <div class="clearfix page-bottom"></div>
 {% assign type = nil %}

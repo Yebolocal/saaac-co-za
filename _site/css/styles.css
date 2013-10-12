@@ -715,3 +715,14 @@ float: right;
    background: #CC0000;
    padding: 20px;
 }
+
+.paginator {
+   background: black;
+   margin: 30px;
+   padding: 10px;
+}
+
+.disable {
+   background: white;
+   color: white;
+}
