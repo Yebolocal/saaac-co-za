@@ -1,7 +1,7 @@
 ---
 title: ICB Financial Management for Entrepreneurs Programme Overview
 layout: post
-tags: [Finacial Management, Entrepreneurship]
+tags: [Financial Management, Entrepreneurship]
 ---
 
 ![alt text](/img/acc/icb-logo.jpg "")
