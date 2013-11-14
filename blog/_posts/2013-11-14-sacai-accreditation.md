@@ -7,6 +7,9 @@ permalink: blog/sacai-accreditation
 ** (SOUTH AFRICAN COMPREHENSIVE ASSESSMENT INSTITUTE) **   
 ** REGISTRATION FOR GRADE 10 TO 12 **
 
+![](/img/acc/sacai-logo.jpg)
+
+
 *SACAI is an assessment body provisionally accredited by Umalusi, the Council for Quality Assurance in General and Further Education and Training, to assessment relating to the National Senior Certificate (NSC), which includes the NSC examination.*
 
 ** SACAI adheres strictly to the Minister of Basic Education's curriculum (The National Curriculum Statement/NCS) and relating regulations and policy. **
