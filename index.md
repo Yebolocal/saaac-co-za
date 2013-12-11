@@ -14,6 +14,12 @@ wistiaEmbed = Wistia.embed("xcdfvj0pg5");
 
 <br>
 
+<a href="/img/SAAAC-Prospectus.pdf"><img src="/SAAAC-Prospectus.png" alt="Prospectus"></a>
+
+Download out Prospectus by clicking <a href="/img/SAAAC-Prospectus.pdf"> here </a>
+
+<br>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
