@@ -16,7 +16,7 @@ wistiaEmbed = Wistia.embed("xcdfvj0pg5");
 
 <a href="/img/SAAAC-Prospectus.pdf"><img src="/SAAAC-Prospectus.png" alt="Prospectus"></a>
 
-Download our Prospectus by clicking <a href="/img/SAAAC-Prospectus.pdf"> here </a>
+<p> Download our Prospectus by clicking <a href="/img/SAAAC-Prospectus.pdf"> here </a> </p>
 
 <br>
 
