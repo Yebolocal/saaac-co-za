@@ -1,4 +1,18 @@
 
-	Included file 'cat-tag/atom_post.xml' not found in _includes directory
+	<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+    <title>website.com - Category: abma-journalism-and-media-studies-programme</title>
+   
+   <link>http://website.com</link>
+   <description>Description.</description>
+   <language>en-us</language>
+   <managingEditor>R.J. Lorimer</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+</channel>
+</rss>
 
 
