@@ -1,7 +1,6 @@
 ---
-title: SAAAC receives SACAI Accreditation
+title: SAAAC receives SACAI accreditation
 layout: default
-permalink: blog/sacai-accreditation
 ---
 
 ** (SOUTH AFRICAN COMPREHENSIVE ASSESSMENT INSTITUTE) **   
