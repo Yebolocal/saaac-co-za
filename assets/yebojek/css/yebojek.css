@@ -142,6 +142,8 @@ a:focus {
 }
 
 .topbar-container {
+   min-height: 20px;
+   margin: 0 auto;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -152,7 +154,7 @@ a:focus {
 }
 
 .header-container {
-   background: url("/assets/yebojek/img/header-2.png");
+   min-height: 200px;
 }
 
 
@@ -165,8 +167,6 @@ a:focus {
 
 .nav-container {
    background: grey;
-   margin-left: 10px;
-   margin-right: 10px;
 }
 
 
@@ -339,5 +339,15 @@ a:focus {
    background:  url(../../img/tag-cloud-1.png) center top no-repeat;
    min-height: 500px;
 
+}
+
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+float: right;
 }
 

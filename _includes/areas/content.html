@@ -1,3 +1,4 @@
+      
       <div class="row">
             <div class="col-md-8">
                {% if page.title %}
@@ -7,9 +8,9 @@
                {{ content }}
             </div>
             <div class="col-md-4">
-            <h2> Facebook Newsfeed </h2>
+            <h3> Facebook Newsfeed </h3>
             {% include bits/facebook-feed.html%} 
-               <h2> Links </h2>
+            <h3> Links </h3>
                   <ul>
                      {% for post in site.posts limit: 100 %}
                      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
