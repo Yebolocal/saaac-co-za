@@ -155,7 +155,7 @@ a:focus {
 }
 
 .header-container {
-   min-height: 200px;
+   min-height: 300px;
    background: url(../../img/banner-top.png) center top no-repeat;
 }
 
