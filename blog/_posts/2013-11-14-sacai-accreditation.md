@@ -1,6 +1,6 @@
 ---
 title: SAAAC receives SACAI Accreditation
-layout: post
+layout: default
 permalink: blog/sacai-accreditation
 ---
 

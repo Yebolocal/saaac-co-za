@@ -1,6 +1,6 @@
 ---
 title: Business Opportunity
-layout: post
+layout: default
 permalink: business-oppertunity
 ---
 

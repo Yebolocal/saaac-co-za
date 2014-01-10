@@ -1,6 +1,6 @@
 ---
 title: Opening Soon
-layout: post
+layout: default
 permalink: blog/opening-soon
 ---
 Dear Learners

@@ -35,8 +35,7 @@ body {
 }
 
 .site-container {
-   margin: 0 auto;
-   max-width: 960px;            /*    This is where you set the width of you websites active area, if you want the site to span the whole browser window just remove this*/
+             /*  max-width: 960px;    This is where you set the width of you websites active area, if you want the site to span the whole browser window just remove this*/
 }
 
 ul {                                 /* Unordered List styling*/
@@ -90,7 +89,7 @@ a {
 }
 
 a:hover {
-	background: orange;
+	background: #CC0000;
 	text-decoration: none;
 }
 
@@ -99,7 +98,7 @@ a:visited {
 }
 
 a:focus {
-	background: green;
+	background: #CC0000;
 	color: black ;
 	
 }
@@ -128,9 +127,11 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .section-top-wrapper {
+
 }
 
 .section-top-container {
+   margin: 0 auto;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -180,6 +181,8 @@ a:focus {
 }
 
 .section-content-container {
+   max-width: 960px; 
+   margin: 0 auto;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -223,9 +226,12 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .section-bottom-wrapper {
+   background:  grey;
 }
 
 .section-bottom-container {
+   margin: 0 auto;
+
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -233,10 +239,12 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .extra-wrapper {
+   
 }
 
 .extra-container {
-   background: url ("/assets/yebojek/img/extra-2.png");
+   max-width: 960px; 
+   margin: 0 auto;
 }
 
 
@@ -245,6 +253,7 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .footer-wrapper {
+   background:  black;
 }
 
 .footer-container {
@@ -267,7 +276,7 @@ a:focus {
 
 .footer-container a {
    text-decoration: underline;
-   color: grey;
+   color: white;
 }
 .footer-container a:hover {
    color: black;  
@@ -326,5 +335,9 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 
+.tag-canvas {
+   background:  url(../../img/tag-cloud-1.png) center top no-repeat;
+   min-height: 500px;
 
+}
 
