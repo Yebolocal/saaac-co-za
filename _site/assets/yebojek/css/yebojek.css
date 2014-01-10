@@ -349,7 +349,7 @@ a:focus {
 
 
 .tag-canvas {
-   background:  url(../../img/tag-cloud-1.png) center top no-repeat;
+   background:  url(../../img/tag-cloud-1.png) center bottom no-repeat;
    min-height: 500px;
 
 }
@@ -363,4 +363,15 @@ box-shadow: 0;
 display: inline;
 float: right;
 }
+
+.my-button {
+   padding: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+   border-style: outset;
+
 
