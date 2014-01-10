@@ -172,7 +172,7 @@ a:focus {
 
 }
 
-.nav-container p, a, li {
+.nav-container p, .nav-container a, .nav-container li {
    color: white;
 }
 
@@ -190,6 +190,7 @@ a:focus {
    max-width: 960px; 
    margin: 0 auto;
 }
+
 
 /* ------------------------------------------------------------------------------- */
                                     /* Content-header*/

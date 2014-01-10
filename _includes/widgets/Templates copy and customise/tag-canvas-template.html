@@ -1,0 +1,41 @@
+<h4 class="widget-title"> </h4>
+      <!-- tags can be tagList maybe -->
+   <script type="text/javascript">
+      window.onload = function() {
+        try {
+          TagCanvas.Start('tag-canvas-1','tag-canvas-1-tags',{   
+            textColour: 'white',
+            outlineColour: 'white',
+            reverse: true,
+            depth: 0.8,
+            weight: true,
+            weightSizeMin: 20,
+            weightSizeMax: 40,
+            wheelZoom: false,
+            initial: [0.120, 0.080],
+            maxSpeed: 0.10,
+            shape: 'vcylinder'
+          });
+        } catch(e) {
+          // something went wrong, hide the canvas container
+          document.getElementById('myCanvasContainer').style.display = 'none';
+        }
+      };
+    </script>
+      <div class="myCanvasContainer">
+         <canvas width="300" height="300" id="tag-canvas-1">
+            <p>Anything in here will be replaced on browsers that support the canvas element</p>
+         </canvas>
+      </div>
+      <div id="tag-canvas-1-tags" style='display:none'>
+         <ul>
+            {% for tag in site.tags %}
+            <li>
+               <a href="/tag/{{ tag | first}}"
+                  style="font-size: {{tag | last | size | times:100 | divided_by:site.tags.size}}pt">
+                  {{ tag | first }}
+               </a>
+            </li>
+            {% endfor %}
+         </ul>
+      </div>

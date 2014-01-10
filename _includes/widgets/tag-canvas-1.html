@@ -11,7 +11,7 @@
             weightSizeMin: 20,
             weightSizeMax: 40,
             wheelZoom: false,
-            initial: [0.05, 0.03],
+            initial: [0.30, 0.03],
             maxSpeed: 0.03,
           });
         } catch(e) {
@@ -27,7 +27,42 @@
       </div>
       <div id="tag-canvas-1-tags" style='display:none'>
          <ul>
-            {% for tag in site.tags %}
+               <li>
+                       <a href="/abma"> 
+                              <img src="../../assets/img/abma-200-200.png" 
+                              alt="abma-200-200" width="200" height="200" />
+                       </a> 
+               </li>
+               <li>
+                       <a href="/ithsa-cth"> 
+                              <img src="../../assets/img/ithsa-300-100.png" 
+                              alt="ithsa-300-100" width="300" height="100" />
+                       </a> 
+               </li>
+               <li>
+                       <a href="/ithsa-cth"> 
+                              <img src="../../assets/img/cth-300-100.png" 
+                              alt="cth-300-100" width="300" height="100" />
+                       </a> 
+               </li>
+               <li>
+                       <a href="/icb"> 
+                              <img src="../../assets/img/icb-300-100.png" 
+                              alt="icb-300-100" width="300" height="100" />
+                       </a> 
+               </li>
+                <li>
+                       <a href="/matric"> 
+                               <img src="../../assets/img/sacai-200-200-white-2.png" 
+                               alt="sacai-200-200-" width="200" height="200" />
+                       </a> 
+               </li>              
+               
+               
+              
+
+            
+         <!--    {% for tag in site.tags %}
             <li>
                <a href="/tag/{{ tag | first}}"
                   style="font-size: {{tag | last | size | times:100 | divided_by:site.tags.size}}pt">
@@ -35,5 +70,7 @@
                </a>
             </li>
             {% endfor %}
+          --> 
+            
          </ul>
       </div>

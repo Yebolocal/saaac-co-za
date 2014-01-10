@@ -1,6 +1,6 @@
 ---
 title: ABMA Business Management Programme Overview
-layout: post
+layout: default
 tags: [Business Management, Management]
 ---
 
