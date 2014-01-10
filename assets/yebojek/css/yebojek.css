@@ -127,6 +127,7 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .section-top-wrapper {
+   background: grey;
 
 }
 
@@ -155,6 +156,7 @@ a:focus {
 
 .header-container {
    min-height: 200px;
+   background: url(../../img/banner-top.png) center top no-repeat;
 }
 
 
@@ -163,12 +165,16 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .nav-wrapper {
+   background: black;
 }
 
 .nav-container {
-   background: grey;
+
 }
 
+.nav-container p, a, li {
+   color: white;
+}
 
 
 /* ------------------------------------------------------------------------------- */
