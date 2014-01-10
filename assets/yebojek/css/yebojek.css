@@ -31,7 +31,7 @@ body {
 /* ------------------------------------------------------------------------------- */
 
 .site-wrapper {
-   background: orange;   
+   background:  #CC0000;   
 }
 
 .site-container {
@@ -262,7 +262,7 @@ a:focus {
 }
 
 .footer-container p {
-   color: grey;   
+   color: white;   
 }
 
 .footer-container a {
