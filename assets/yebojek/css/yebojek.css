@@ -191,6 +191,12 @@ a:focus {
    margin: 0 auto;
 }
 
+.section-content-container ul, .section-content-container ol {                                 /* Unordered List styling*/
+	margin-left:1.5em;
+	list-style:  square;
+}
+
+
 
 /* ------------------------------------------------------------------------------- */
                                     /* Content-header*/

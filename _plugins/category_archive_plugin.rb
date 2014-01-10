@@ -54,7 +54,7 @@ module Jekyll
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
-{% for post in page.posts %}<h3><a href="{{ post.url }}"><span>{{ post.title }}<span></a></h3><br>{{post.excerpt}}<br><br><br>
+<br>{% for post in page.posts %}<h3><a href="{{ post.url }}"><span>{{ post.title }}<span></a></h3><br>{{post.excerpt}}<br><br><br>
 
 {% endfor %}
       EOS
