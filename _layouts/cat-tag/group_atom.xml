@@ -1,8 +1,0 @@
----
-layout: /cat-tag/atom
-title: nil
----
-{% for post in page.posts %}
-	{% include cat-tag/atom_post.xml %}
-{% endfor %}
-

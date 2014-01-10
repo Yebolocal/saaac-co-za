@@ -1,1 +1,0 @@
-This is for the category and tag pages that display a list of the posts in a category or tag. THis code is mostly the code from ????? Add name here.

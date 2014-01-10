@@ -1,7 +1,0 @@
-use the post function for the content pages of the site
-
-Use social media for news feeds etc
-
-Use posts as pages, becuase its easier to group them and create auto lists
-
-Can set post thumbnails that can be set to display in the lists of posts

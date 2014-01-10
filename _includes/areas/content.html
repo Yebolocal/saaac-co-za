@@ -1,0 +1,19 @@
+      <div class="row">
+            <div class="col-md-9">
+               {% if page.title %}
+               <h1 class='page-title'> {{ page.title }} </h1>
+               {% endif %}
+               <hr/>
+               {{ content }}
+            </div>
+            <div class="col-md-3">
+               <h2> Posts </h2>
+                  <ul>
+                     {% for post in site.posts limit: 10 %}
+                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                     {% endfor %}
+                  </ul>            
+             </div>
+      </div>
+      
+      
