@@ -8,7 +8,7 @@ layout: default
 
 ![](/img/acc/sacai-logo.jpg)
 
-{{excerpt_separator}}
+
 
 
 *SACAI is an assessment body provisionally accredited by Umalusi, the Council for Quality Assurance in General and Further Education and Training, to assessment relating to the National Senior Certificate (NSC), which includes the NSC examination.*
