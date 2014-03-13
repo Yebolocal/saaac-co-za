@@ -10,6 +10,7 @@ Fax: 0866435347
 
 ## Email:     
 
+<p> academyblm@saaac.co.za </p>     
 
 ## Address:    
 
