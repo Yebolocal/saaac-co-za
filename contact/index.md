@@ -1,7 +1,6 @@
 ---
 title: Contact
 layout: default
-thumbnail: /img/thumbs/title.png
 ---
 
 ## Email
